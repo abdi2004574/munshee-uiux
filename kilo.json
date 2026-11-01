@@ -1,0 +1,12 @@
+﻿{
+  "name": "munshee-uiux",
+  "version": "0.1.0",
+  "description": "Munshie.pk bilingual (Urdu/English) accounting/business OS redesign for Pakistani SMBs",
+  "apps": [
+    { "name": "munshie-frontend", "path": "munshie/frontend", "port": 3000 },
+    { "name": "admin-frontend", "path": "admin.munshee/frontend", "port": 3001 }
+  ],
+  "stack": ["React 19", "Vite 8", "TypeScript strict", "Tailwind 4", "Radix UI", "Framer Motion", "Zod", "TanStack Query", "Supabase", "i18next"],
+  "locales": ["en", "ur", "ur-Latn"],
+  "waves": 8
+}
