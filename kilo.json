@@ -1,4 +1,5 @@
-﻿{
+{
+  "$schema": "https://app.kilo.ai/config.json",
   "name": "munshee-uiux",
   "version": "0.1.0",
   "description": "Munshie.pk bilingual (Urdu/English) accounting/business OS redesign for Pakistani SMBs",
